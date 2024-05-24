@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rakibul Hasan</h1>
+<h1 align="center">Hi 👋, I'm Rakibul H. Rabbi</h1>
 <h3 align="center">Welcome to my code sanctuary!</h3>
 
 <h5 align="center">As a proficient conductor in the realm of digital innovation, I assume the role of a Full-Stack Software Developer, meticulously crafting code with precision and finesse. Navigating the dynamic landscape of technology with discernment, I engineer solutions marked by elegance and sophistication.</h5>
