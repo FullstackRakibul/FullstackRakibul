@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fullstackrakibul" alt="fullstackrakibul" /></a> </p>
 
-- 🔭 I’m currently working on **Clean Architecture . NET core**
+- 🔭 I’m currently working on **Microservices Architecture DOT.NET EF core**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
