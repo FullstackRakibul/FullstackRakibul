@@ -75,6 +75,10 @@
 
 ###
 
+<p align="left">📈 My Development Philosophy<br>🔹 Precision: Writing clean, maintainable, and scalable code.<br>🔹 Efficiency: Striving for performance without compromising quality.<br>🔹 Creativity: Infusing innovative designs into robust functionalities.<br>🔹 Collaboration: Believing in the power of teamwork to achieve greatness.</p>
+
+###
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FullstackRakibul&radius=16&theme=lucent&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
