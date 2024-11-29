@@ -75,6 +75,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FullstackRakibul&radius=16&theme=lucent&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <a href="rakibul.cse.47@gmail.com" target="_blank">
@@ -83,12 +89,6 @@
   <a href="https://medium.com/@fullstackrakibul" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FullstackRakibul&radius=16&theme=lucent&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
