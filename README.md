@@ -5,9 +5,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FullstackRakibul&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="130" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=FullstackRakibul&locale=en&mode=weekly&theme=cobalt&hide_border=false&border_radius=5" height="130" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FullstackRakibul&theme=cotton-candy&area=true&hide_title=false&radius=5" height="130" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=FullstackRakibul&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=FullstackRakibul&locale=en&mode=weekly&theme=cobalt&hide_border=false&border_radius=5" height="" alt="streak graph"  />
 </div>
 
 ###
@@ -147,6 +146,14 @@
 <br clear="both">
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FullstackRakibul&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
   <a href="https://www.linkedin.com/in/fullstackrakibul/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -171,12 +178,12 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/FullstackRakibul/FullstackRakibul/output/snake.svg" alt="Snake animation" />
+<p align="left">I'm Rakibul H. Rabbi, a Full-Stack Software Developer with a knack for building elegant, efficient, and robust digital solutions. My journey through the tech world has been a harmonious blend of artistry and engineering, fueled by curiosity and a relentless pursuit of excellence.<br><br>📈 My Development Philosophy<br>🔹 Precision: Writing clean, maintainable, and scalable code.<br>🔹 Efficiency: Striving for performance without compromising quality.<br>🔹 Creativity: Infusing innovative designs into robust functionalities.<br>🔹 Collaboration: Believing in the power of teamwork to achieve greatness.</p>
 
 ###
 
 <br clear="both">
 
-<p align="left">I'm Rakibul H. Rabbi, a Full-Stack Software Developer with a knack for building elegant, efficient, and robust digital solutions. My journey through the tech world has been a harmonious blend of artistry and engineering, fueled by curiosity and a relentless pursuit of excellence.<br><br>📈 My Development Philosophy<br>🔹 Precision: Writing clean, maintainable, and scalable code.<br>🔹 Efficiency: Striving for performance without compromising quality.<br>🔹 Creativity: Infusing innovative designs into robust functionalities.<br>🔹 Collaboration: Believing in the power of teamwork to achieve greatness.</p>
+<img src="https://raw.githubusercontent.com/FullstackRakibul/FullstackRakibul/output/snake.svg" alt="Snake animation" />
 
 ###
