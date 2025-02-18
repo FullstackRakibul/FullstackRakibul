@@ -5,9 +5,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FullstackRakibul&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="140" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=FullstackRakibul&locale=en&mode=weekly&theme=cobalt&hide_border=false&border_radius=5" height="138" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FullstackRakibul&theme=cotton-candy&area=true&hide_title=false&radius=5" height="140" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=FullstackRakibul&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="130" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=FullstackRakibul&locale=en&mode=weekly&theme=cobalt&hide_border=false&border_radius=5" height="130" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FullstackRakibul&theme=cotton-candy&area=true&hide_title=false&radius=5" height="130" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -141,10 +141,6 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" alt="yarn logo"  />
 </div>
-
-###
-
-<img align="right" height="50" src="https://media4.giphy.com/media/IkQXgu7ni0fw4/giphy.gif?cid=6c09b952gcg2r20ygf846va1qee2iuqgl31sbvhynpjzn1c1&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"  />
 
 ###
 
