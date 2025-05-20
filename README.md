@@ -3,7 +3,8 @@
 ###
 
 <br clear="both">
-
+<p>the quiet architect of systems and spirit, a soul who sees code and cosmos as kin.. </p>
+<br clear="both">
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FullstackRakibul&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="140" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=FullstackRakibul&locale=en&mode=weekly&theme=cobalt&hide_border=false&border_radius=5" height="140" alt="streak graph"  />
