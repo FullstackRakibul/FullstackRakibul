@@ -1,7 +1,7 @@
 # <p align="center">`</rakibul.h.rabbi>`</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=900&lines=Console.WriteLine(%22Hi+👋,+I'm+Rakibul+H.+Rabbi%22);+Debug.WriteLine(%22Welcome+to+my+code+sanctuary%22);+Trace.WriteLine(%22the+quiet+architect+of+systems+and+spirit%22);+string+input+=+Console.ReadLine();+Console.WriteLine(%22A+soul+who+sees+code+and+cosmos+as+kin..%22);+sb.AppendLine(%22Coffee+or+death%22);+sb.AppendFormat(%22Status:+{0}%22,+%22Coding+at+3+AM%22);+Console.WriteLine(sb.ToString());+System.out.println(%22Send+help%22);+print(%22I+forgor+%F0%9F%92%80%22);" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=850&lines=Console.WriteLine(%22Hi+👋,+I'm+Rakibul+H.+Rabbi%22);;Debug.WriteLine(%22Welcome+to+my+code+sanctuary%22);;Trace.WriteLine(%22the+quiet+architect+of+systems%22);;Console.WriteLine(%22A+soul+who+sees+code+and+cosmos+as+kin%22);;sb.AppendLine(%22Coffee+or+death%22);;Console.WriteLine(%22Status:+Coding+at+3+AM%22);;System.out.println(%22Send+help%22);;print(%22I+forgor+💀%22);" alt="Typing SVG" />
 </p>
 
 ---
@@ -30,14 +30,16 @@
 
 ## 🦇 THE ORIGIN STORY (> "You came for the chaos. You stayed for the systems.")
 
-````bash
+```bash
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │                              GOTHAM TERMINAL                                │
 │                          [ACCESS: BATMAN LEVEL]                             │
 └─────────────────────────────────────────────────────────────────────────────┘
 ### *"I'm Batman. I don't do bugs. I AM the bug."* — Me, 3 AM, crying over a semicolon
+```
 
 ---
+
 ## 🦇 THE SIGNAL (GITHUB STATS)
 
 <p align="center">
@@ -47,6 +49,7 @@
 ---
 
 ## 🎬 OPENING SCENE (Dark Alleyway, 3 AM)
+
 ---
 
 <br clear="both">
@@ -55,8 +58,8 @@
   <img src="https://streak-stats.demolab.com?user=FullstackRakibul&locale=en&mode=weekly&theme=cobalt&hide_border=false&border_radius=5" height="140" alt="streak graph"  />
 </div>
 
-
 ## 💀 STATS THAT SHOULD NOT EXIST
+
 <div align="center">
 | ** Power Level**        | ** Comedy **                                                 |
 | ----------------------- | -------------------------------------------------------------|
@@ -72,7 +75,7 @@
 
 [![Rakibul's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=FullstackRakibul&theme=github-dark&hide_border=true&bg_color=0a0a0a&color=ff0000&line=ff4444&point=ffffff&area=true&area_color=ff000033)](https://github.com/FullstackRakibul)
 
-> *"Each green square is a lie I told myself that I'd sleep early tonight."*
+> _"Each green square is a lie I told myself that I'd sleep early tonight."_
 
 ---
 
@@ -130,7 +133,7 @@ rakibul@crippling-anxiety:~$ neofetch --depression-level=high
                  Portfolio   ➜ https://butterbun.vercel.app/
 
 --------------------------------------------------------------
-````
+```
 
 ---
 
