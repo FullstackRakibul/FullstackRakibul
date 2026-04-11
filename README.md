@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=850&lines=Console.WriteLine(%22Hi+👋,+I'm+Rakibul+H.+Rabbi%22);;Debug.WriteLine(%22Welcome+to+my+code+sanctuary%22);;Trace.WriteLine(%22the+quiet+architect+of+systems%22);;Console.WriteLine(%22A+soul+who+sees+code+and+cosmos+as+kin%22);;sb.AppendLine(%22Coffee+or+death%22);;Console.WriteLine(%22Status:+Coding+at+3+AM%22);;System.out.println(%22Send+help%22);;print(%22I+forgor+💀%22);" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=900&size=20&duration=2000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Console.WriteLine(%22Hi+👋,+I'm+Rakibul+H.+Rabbi%22);;Please+send+coffee;Or+therapy;Or+both" alt="Outro" />
+</p>
+
 ## 🎭 OPENING CREDITS
 
 ```
@@ -26,14 +30,14 @@
 
 ### _"I didn't choose the bug life, the bug life chose me."_ — Sun Tzu, probably
 
-## 🦇 THE ORIGIN STORY (> "You came for the chaos. You stayed for the systems.")
+## 🦇 THE ORIGIN STORY (> came for the chaos. stayed for the systems.)
 
 ```bash
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                              GOTHAM TERMINAL                                │
-│                          [ACCESS: BATMAN LEVEL]                             │
-└─────────────────────────────────────────────────────────────────────────────┘
-### *"I'm Batman. I don't do bugs. I AM the bug."* — Me, 3 AM, crying over a semicolon
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│                                          TERMINAL                                      │
+│                                     [ACCESS: BATMAN LEVEL]                             │
+|            I don't do bugs. I AM the bug."* — Me, 3 AM, crying over a semicolon        │
+└────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -52,7 +56,6 @@
 
 <br clear="both">
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FullstackRakibul&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="140" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=FullstackRakibul&locale=en&mode=weekly&theme=cobalt&hide_border=false&border_radius=5" height="140" alt="streak graph"  />
 </div>
 
