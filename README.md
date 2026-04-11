@@ -3,26 +3,25 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=850&lines=Console.WriteLine(%22Hi+👋,+I'm+Rakibul+H.+Rabbi%22);;Debug.WriteLine(%22Welcome+to+my+code+sanctuary%22);;Trace.WriteLine(%22the+quiet+architect+of+systems%22);;Console.WriteLine(%22A+soul+who+sees+code+and+cosmos+as+kin%22);;sb.AppendLine(%22Coffee+or+death%22);;Console.WriteLine(%22Status:+Coding+at+3+AM%22);;System.out.println(%22Send+help%22);;print(%22I+forgor+💀%22);" alt="Typing SVG" />
 </p>
----
 
 ## 🎭 OPENING CREDITS
 
 ```
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                                     TERMINAL                                  ║
-║                                                                               ║
-║                                                                               ║
-║                 ██████╗  █████╗ ██╗  ██╗██╗██████╗ ██╗   ██╗██╗               ║
-║                 ██╔══██╗██╔══██╗██║ ██╔╝██║██╔══██╗██║   ██║██║               ║
-║                 ██████╔╝███████║█████╔╝ ██║██████╔╝██║   ██║██║               ║
-║                 ██╔══██╗██╔══██║██╔═██╗ ██║██╔══██╗██║   ██║██║               ║
-║                 ██║  ██║██║  ██║██║  ██╗██║██████╔╝╚██████╔╝███████╗          ║
-║                 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═════╝  ╚═════╝ ╚══════╝          ║
-║                                                                               ║
-║                              ▓▓  F U L L S T A C K  ▓▓                        ║
-║                       (I have no idea what I'm doing either)                  ║
-║                                                                               ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
+╔═════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                         TERMINAL                                            ║
+║                                                                                             ║
+║                                                                                             ║
+║                     ██████╗  █████╗ ██╗  ██╗██╗██████╗ ██╗   ██╗██╗                         ║
+║                     ██╔══██╗██╔══██╗██║ ██╔╝██║██╔══██╗██║   ██║██║                         ║
+║                     ██████╔╝███████║█████╔╝ ██║██████╔╝██║   ██║██║                         ║
+║                     ██╔══██╗██╔══██║██╔═██╗ ██║██╔══██╗██║   ██║██║                         ║
+║                     ██║  ██║██║  ██║██║  ██╗██║██████╔╝╚██████╔╝███████╗                    ║
+║                     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═════╝  ╚═════╝ ╚══════╝                    ║
+║                                                                                             ║
+║                                  ▓▓  F U L L S T A C K  ▓▓                                  ║
+║                           (I have no idea what I'm doing either)                            ║
+║                                                                                             ║
+╚═════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 ### _"I didn't choose the bug life, the bug life chose me."_ — Sun Tzu, probably
