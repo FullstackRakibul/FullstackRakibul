@@ -55,7 +55,7 @@
 
 <br clear="both">
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=FullstackRakibul&locale=en&mode=weekly&theme=cobalt&hide_border=false&border_radius=5" height="140" width="100%" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=FullstackRakibul&locale=en&mode=weekly&theme=cobalt&hide_border=false&border_radius=5&height=200" width="100%" alt="streak graph"  />
 </div>
 
 ## 💀 STATS THAT SHOULD NOT EXIST
