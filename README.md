@@ -1,15 +1,10 @@
 <p align="center"><rakibul.h.rabbi /></p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=900&lines=👋+Hi%2C+I'm+Rakibul+H.+Rabbi;Full+Stack+Engineer+%7C+System+Architect;Building+scalable+systems+by+day...;...debugging+them+by+night+🌙;%22It+works+on+my+machine™%22" alt="Typing SVG" />
-</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/fullstackrakibul/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/FullstackRakibul"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://medium.com/@rakibul.h.rabbi"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="https://butterbun.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FullstackRakibul&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 ---
 ## 🦇 THE ORIGIN STORY (> came for the chaos. stayed for the systems.)
@@ -33,9 +28,6 @@
 ---
 
 
-
-
-
 ## 💀 STATS THAT SHOULD NOT EXIST
 
 | ** Power Level**        | ** Comedy **                                               |
@@ -48,7 +40,7 @@
 
 ---
 
-## 🎬 The Tragedy GRAPH Or lack thereof
+## Tragedy GRAPH Or lack thereof
 
 [![Rakibul's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=FullstackRakibul&theme=github-dark&hide_border=true&bg_color=0a0a0a&color=ff0000&line=ff4444&point=ffffff&area=true&area_color=ff000033)](https://github.com/FullstackRakibul)
 
@@ -56,22 +48,27 @@
 
 ---
 
-## 🎭 MY DARK BACKSTORY (Neofetch)
+```bash
+rakibul@fullstack:~$ whoami --neofetch-edition
+```
+> the quiet **architect of systems** and spirit, a soul who sees code and cosmos as kin.. ™.
+
 
 ```bash
-rakibul@crippling-anxiety:~$ neofetch --depression-level=high
+rakibul@neofetch:~$ neofetch --level=high
 --------------------------------------------------------------
 
   👤 Name:              Rakibul H. Rabbi
   🎭 Alias:             "The Bug Whisperer"
+  ⚔️ Role:              Full Stack Engineer
+  🏢 Company:           Ha-Meem Group (they still don't know I use StackOverflow)
+
+  🖥️ OS:                Windows 10 / Ubuntu 24.10 (dual boot, double the chaos)
+  ⚔️ Role:              Full Stack Engineer (fancy term for "I do everything")
   💀 Status:            Living on caffeine and broken promises
 
-  🖥️  OS:               Windows 10 / Ubuntu 24.10 (dual boot = double the pain)
-  ⚔️  Role:             Full Stack Engineer (fancy term for "I do everything")
-  🏢  Company:          Ha-Meem Group (they still don't know I use StackOverflow)
-
-  ⏰  Uptime:           26 years, no reboot in sight (help)
-  🧠  Mental RAM:       2GB used by anxiety, 14GB by Chrome tabs
+  ⏰  Uptime:           26 years, no reboot in sight (yet)
+  🧠  Mental RAM:       2GB used by anxiety, 14GB by Chrome tabs · 0GB free
 
   🎯  Focus:            Clean Architecture (lies), Automation (cope), Scalable APIs (dreams)
 
@@ -110,6 +107,28 @@ rakibul@crippling-anxiety:~$ neofetch --depression-level=high
                  Portfolio   ➜ https://butterbun.vercel.app/
 
 --------------------------------------------------------------
+```
+
+---
+
+```yaml
+CORE SKILLS:
+  Backend Architecture:  ██████████  100%  (Clean code, dirty hacks)
+  API Design:            █████████░   90%  (RESTful by day, chaotic by night)
+  Database Design:       ████████░░   80%  (Normalized... mostly)
+  Debugging:             ████████░░   80%  (print() goes brrr)
+  Frontend Dev:          ███████░░░   70%  (CSS is my nemesis)
+  DevOps / Docker:       ███████░░░   70%  (It deploys ¯\_(ツ)_/¯)
+  Writing Docs:          ███░░░░░░░   30%  (The code IS the documentation)
+
+PASSIVE BUFFS:
+  ☕  Caffeine Dependency  →  +50 Focus, -50 HP
+  🌙  Night Owl Mode       →  Productivity peaks at 3 AM
+  🐛  Bug Magnetism        →  Bugs materialize near me spontaneously
+  📋  Stack Overflow Sense →  Tab 47 always open
+
+ULTIMATE:
+  💀  "git push --force origin main"  (Cooldown: Once per job)
 ```
 
 ---
