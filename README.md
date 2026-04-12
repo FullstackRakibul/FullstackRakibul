@@ -6,20 +6,18 @@
   <a href="https://medium.com/@rakibul.h.rabbi"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="https://butterbun.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
----
-## 🦇 THE ORIGIN STORY (> came for the chaos. stayed for the systems.)
 
+## 🦇 THE ORIGIN STORY (came for the chaos. stayed for the systems.)
 
 <br clear="both">
 <div>
-  <img src="https://github-profile-trophy.vercel.app/?username=FullstackRakibul&theme=tokyonight&no-frame=true&margin-w=10&row=1" alt="Trophies" />
-  <img src="https://streak-stats.demolab.com?user=FullstackRakibul&locale=en&mode=weekly&theme=cobalt&hide_border=false&border_radius=5" height="140" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=FullstackRakibul&locale=en&mode=weekly&theme=cobalt&hide_border=false&border_radius=5" height="200" alt="streak graph"  />
 </div>
 
 ---
 
 
-## 🦇 THE SIGNAL (GITHUB STATS)
+## 🦇 THE GITHUB SIGNAL STATS
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FullstackRakibul&theme=github-dark&hide_border=true&bg_color=000000&color=ffff00&line=000000&point=ffff00&area=true&area_color=ffff0022&custom_title=🌑%20THE%20BAT%20SIGNAL%20(GITHUB%20ACTIVITY)%20🌑" />
@@ -40,7 +38,7 @@
 
 ---
 
-## Tragedy GRAPH Or lack thereof
+## Tragedy GRAPH Or LACK thereof
 
 [![Rakibul's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=FullstackRakibul&theme=github-dark&hide_border=true&bg_color=0a0a0a&color=ff0000&line=ff4444&point=ffffff&area=true&area_color=ff000033)](https://github.com/FullstackRakibul)
 
@@ -146,7 +144,7 @@ ULTIMATE:
 
 ---
 
-## 🎮 MY SKILLS (Anime Battle Card Style)
+## 🎮 SKILLS Battle
 
 ```yaml
 STATS:
