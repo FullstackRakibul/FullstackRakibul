@@ -1,5 +1,16 @@
-# <p align="center">`</rakibul.h.rabbi>`</p>
-
+<p align="center"><rakibul.h.rabbi /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=900&lines=👋+Hi%2C+I'm+Rakibul+H.+Rabbi;Full+Stack+Engineer+%7C+System+Architect;Building+scalable+systems+by+day...;...debugging+them+by+night+🌙;%22It+works+on+my+machine™%22" alt="Typing SVG" />
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/fullstackrakibul/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/FullstackRakibul"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://medium.com/@rakibul.h.rabbi"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://butterbun.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FullstackRakibul&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 ---
 ## 🦇 THE ORIGIN STORY (> came for the chaos. stayed for the systems.)
 
@@ -9,11 +20,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=FullstackRakibul&theme=tokyonight&no-frame=true&margin-w=10&row=1" alt="Trophies" />
   <img src="https://streak-stats.demolab.com?user=FullstackRakibul&locale=en&mode=weekly&theme=cobalt&hide_border=false&border_radius=5" height="140" alt="streak graph"  />
 </div>
-
----
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=850&lines=Console.WriteLine(%22Hi+👋,+I'm+Rakibul+H.+Rabbi%22);;Debug.WriteLine(%22Welcome+to+my+code+sanctuary%22);;Trace.WriteLine(%22the+quiet+architect+of+systems%22);;Console.WriteLine(%22A+soul+who+sees+code+and+cosmos+as+kin%22);;sb.AppendLine(%22Coffee+or+death%22);;Console.WriteLine(%22Status:+Coding+at+3+AM%22);;System.out.println(%22Send+help%22);;print(%22I+forgor+💀%22);" alt="Typing SVG" />
-</p>
 
 ---
 
