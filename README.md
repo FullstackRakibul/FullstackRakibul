@@ -314,7 +314,7 @@ ULTIMATE MOVE:
 
 ---
 
-## 🎵 ENDING THEME SONG
+## ENDING THEME SONG
 
 ```
 🎶  dame da ne  dame yo  dame na no yo  🎶
@@ -326,7 +326,7 @@ ULTIMATE MOVE:
 
 ---
 
-## � VISITOR (Because why not)
+## VISITOR (Because why not)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FullstackRakibul&label=People+who+regret+visiting&color=red&style=for-the-badge" />
