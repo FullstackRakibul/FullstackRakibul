@@ -10,7 +10,7 @@
 ## 🦇 THE ORIGIN STORY (came for the chaos. stayed for the systems.)
 
 <br clear="both">
-<div>
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=FullstackRakibul&locale=en&mode=weekly&theme=cobalt&hide_border=false&border_radius=5" height="200" alt="streak graph"  />
 </div>
 
