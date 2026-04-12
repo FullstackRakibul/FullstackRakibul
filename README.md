@@ -4,7 +4,7 @@
 ```bash
 > the quiet architect of systems and spirit, a soul who sees code and cosmos as kin.. 
 ```
----
+###
 <p align="center">
   <a href="https://www.linkedin.com/in/fullstackrakibul/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/FullstackRakibul"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -12,7 +12,7 @@
   <a href="https://butterbun.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
-## 🦇 THE ORIGIN STORY
+## THE ORIGIN STORY
 
 ```bash
 > came for the chaos. stayed for the systems.
@@ -26,7 +26,7 @@
 ---
 
 
-## 🦇 THE GITHUB SIGNAL STATS
+## THE GITHUB SIGNAL STATS
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FullstackRakibul&theme=github-dark&hide_border=true&bg_color=000000&color=ffff00&line=000000&point=ffff00&area=true&area_color=ffff0022&custom_title=🌑%20THE%20BAT%20SIGNAL%20(GITHUB%20ACTIVITY)%20🌑" />
@@ -139,7 +139,7 @@ ULTIMATE:
 
 ---
 
-## 🎬 QUOTES I LIVE BY
+## QUOTES I LIVE BY
 
 > _"It's not a bug — it's a surprise feature."_
 > — Me, 5 minutes before production crash
@@ -152,7 +152,7 @@ ULTIMATE:
 
 ---
 
-## 🎮 SKILLS Battle
+## SKILLS Battle
 
 ```yaml
 STATS:
