@@ -5,8 +5,8 @@
 
 
 <br clear="both">
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=FullstackRakibul&locale=en&mode=weekly&theme=cobalt&hide_border=false&border_radius=5&" height="140" width="100%" alt="streak graph"  />
+<div>
+  <img src="https://github-profile-trophy.vercel.app/?username=FullstackRakibul&theme=tokyonight&no-frame=true&margin-w=10&row=1" alt="Trophies" />
   <img src="https://streak-stats.demolab.com?user=FullstackRakibul&locale=en&mode=weekly&theme=cobalt&hide_border=false&border_radius=5" height="140" alt="streak graph"  />
 </div>
 
