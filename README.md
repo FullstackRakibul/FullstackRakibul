@@ -1,7 +1,7 @@
 <h2 align="center">👨‍💻 Hi 👋, I'm rakibul h. rabbi , welcome to my code sanctuary</h2>
 
 ###
-```yaml
+```bash
 > the quiet architect of systems and spirit, a soul who sees code and cosmos as kin.. 
 ```
 ---
@@ -14,7 +14,7 @@
 
 ## 🦇 THE ORIGIN STORY
 
-```yaml
+```bash
 > came for the chaos. stayed for the systems.
 ```
 
