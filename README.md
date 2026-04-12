@@ -1,5 +1,10 @@
-<p align="center"><rakibul.h.rabbi /></p>
+<h2 align="center">👨‍💻 Hi 👋, I'm rakibul h. rabbi , welcome to my code sanctuary</h2>
 
+###
+```yaml
+> the quiet architect of systems and spirit, a soul who sees code and cosmos as kin.. 
+```
+---
 <p align="center">
   <a href="https://www.linkedin.com/in/fullstackrakibul/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/FullstackRakibul"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -7,7 +12,11 @@
   <a href="https://butterbun.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
-## 🦇 THE ORIGIN STORY (came for the chaos. stayed for the systems.)
+## 🦇 THE ORIGIN STORY
+
+```yaml
+> came for the chaos. stayed for the systems.
+```
 
 <br clear="both">
 <div align="center">
@@ -44,7 +53,6 @@
 
 > _"Each green square is a lie I told myself that I'd sleep early tonight."_
 
----
 
 ```bash
 rakibul@fullstack:~$ whoami --neofetch-edition
