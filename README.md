@@ -1,10 +1,9 @@
-<h2 align="center">👨‍💻 Hi 👋, I'm rakibul h. rabbi , welcome to my code sanctuary</h2>
+<h2 align="center">👨‍💻 Hi 👋, I'm Rakibul H. Rabbi — welcome to my code sanctuary</h2>
 
-###
 ```bash
-> the quiet architect of systems and spirit, a soul who sees code and cosmos as kin.. 
+> the quiet architect of systems and spirit, a soul who sees code and cosmos as kin..
 ```
-###
+
 <p align="center">
   <a href="https://www.linkedin.com/in/fullstackrakibul/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/FullstackRakibul"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -12,53 +11,26 @@
   <a href="https://butterbun.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
-## THE ORIGIN STORY
+---
+
+## 🧠 About Me
+
+Full-Stack Software Developer working on enterprise ERP systems at Ha-Meem Group.
+
+I build scalable systems, design robust APIs, and fight daily battles with SQL Server and production bugs.
+
+- 🏢 Working on large-scale ERP, HRM, Payroll & Production systems
+- ⚙️ Focused on .NET, SQL Server, Vue, React
+- ☁️ Currently exploring Azure & AWS
+- 🧩 Interested in system design, architecture & automation
 
 ```bash
 > came for the chaos. stayed for the systems.
 ```
 
-<br clear="both">
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=FullstackRakibul&locale=en&mode=weekly&theme=cobalt&hide_border=false&border_radius=5" height="200" alt="streak graph"  />
-</div>
-
 ---
 
-
-## THE GITHUB SIGNAL STATS
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FullstackRakibul&theme=github-dark&hide_border=true&bg_color=000000&color=ffff00&line=000000&point=ffff00&area=true&area_color=ffff0022&custom_title=🌑%20THE%20BAT%20SIGNAL%20(GITHUB%20ACTIVITY)%20🌑" />
-</p>
-
----
-
-
-## 💀 STATS THAT SHOULD NOT EXIST
-
-| ** Power Level**        | ** Comedy **                                               |
-| ----------------------- | ---------------------------------------------------------- |
-| **Total Contributions** | _"git commit -m 'maybe this fixes it'"_                    |
-| **Lines of Code**       | `¯\_(ツ)_/¯` — _"Enough to crash a NASA computer"_         |
-| **Bugs Created**        | `∞` — "It's not a bug, it's an **undocumented feature**™️" |
-| **Bugs Fixed**          | `0` — _"50% success rate, 100% emotional damage."_         |
-| **Cups of Coffee**      | `💀` — _"My blood type is now espresso"_                   |
-
----
-
-## Tragedy GRAPH Or LACK thereof
-
-[![Rakibul's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=FullstackRakibul&theme=github-dark&hide_border=true&bg_color=0a0a0a&color=ff0000&line=ff4444&point=ffffff&area=true&area_color=ff000033)](https://github.com/FullstackRakibul)
-
-> _"Each green square is a lie I told myself that I'd sleep early tonight."_
-
-
-```bash
-rakibul@fullstack:~$ whoami --neofetch-edition
-```
-> the quiet **architect of systems** and spirit, a soul who sees code and cosmos as kin.. ™.
-
+## ⚙️ System Profile (neofetch edition)
 
 ```bash
 rakibul@neofetch:~$ neofetch --level=high
@@ -84,7 +56,7 @@ rakibul@neofetch:~$ neofetch --level=high
 --------------------------------------------------------------
 
   📚  Languages (Programming):
-                 Python -> clean… until it isn’t
+                 Python -> clean… until it isn't
                  SQL -> truth serum for bad design
                  C# -> discipline with a breaking point
                  JavaScript -> chaos with syntax
@@ -117,6 +89,33 @@ rakibul@neofetch:~$ neofetch --level=high
 
 ---
 
+## 🛠 Tech Stack
+
+**Backend:**
+- .NET / ASP.NET Core
+- Laravel
+- Node.js
+
+**Frontend:**
+- React / Next.js
+- Vue / Nuxt
+- Angular
+
+**Database:**
+- SQLite
+- SQL Server (main battlefield)
+- MySQL
+- MongoDB
+- PostgreSQL
+
+**DevOps & Tools:**
+- Git · Docker · IIS · Nginx
+- Azure & AWS (learning phase)
+
+---
+
+## 📊 Core Strengths & Skills
+
 ```yaml
 CORE SKILLS:
   Backend Architecture:  ██████████  100%  (Clean code, dirty hacks)
@@ -135,27 +134,10 @@ PASSIVE BUFFS:
 
 ULTIMATE:
   💀  "git push --force origin main"  (Cooldown: Once per job)
-```
 
 ---
 
-## QUOTES I LIVE BY
-
-> _"It's not a bug — it's a surprise feature."_
-> — Me, 5 minutes before production crash
-
-> _"I will rewrite this from scratch someday."_
-> — Me, 3 years ago, still using the same spaghetti code
-
-> _"One more commit and I'll go to sleep."_
-> — Famous last words
-
----
-
-## SKILLS Battle
-
-```yaml
-STATS:
+DEVELOPER STATS:
   Debugging:       ████████░░ 80%  (mostly print statements)
   Googling:        ██████████ 100% (black belt)
   Coffee Making:   ██████████ 100% (only skill that matters)
@@ -173,6 +155,66 @@ ULTIMATE MOVE:
   💀 "rm -rf --no-preserve-root /prod"
   (Cooldown: Once per job)
 ```
+
+---
+
+## 💀 Developer Reality
+
+**PASSIVE BUFFS:**
+- ☕ Caffeine:        +50 Focus, -50 HP
+- 🌙 Night Mode:      Peak productivity at 3AM
+- 🐛 Bug Magnet:      Bugs find me first
+- 📋 StackOverflow:   Always open
+
+**ULTIMATE:**
+- 💀 `git push --force origin main`
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FullstackRakibul&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## 📜 Philosophy
+
+> "Good systems are not built — they are refined through chaos."
+
+> "Clean architecture is a goal. Production is reality."
+
+---
+
+## 📫 Connect With Me
+
+- **GitHub:** https://github.com/fullstackrakibul
+- **LinkedIn:** https://www.linkedin.com/in/fullstackrakibul/
+- **Medium:** https://medium.com/@rakibul.h.rabbi
+- **Portfolio:** https://butterbun.vercel.app/
+
+---
+
+## 🎵 Ending Theme
+
+```
+🎶 one more deploy... nothing will break... right? 🎶
+```
+
+---
+
+## VISITOR (Because why not)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FullstackRakibul&label=People+who+regret+visiting&color=red&style=for-the-badge" />
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=900&size=20&duration=2000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+dumpster+fire;Please+send+coffee;Or+therapy;Or+both" alt="Outro" />
+</p>
 
 ---
 
@@ -314,30 +356,50 @@ ULTIMATE MOVE:
 
 ---
 
-## ENDING THEME SONG
+## 💡 What I Fixed (Important)
 
-```
-🎶  dame da ne  dame yo  dame na no yo  🎶
-     (translation: "my code doesn't work and I'm out of coffee")
+**❌ Before:**
+- Too long
+- Too chaotic
+- Hard to scan
+- Recruiter-unfriendly
 
-🎶  antaga dame na no yo  🎶
-     (translation: "why is production on fire again")
+**✅ Now:**
+- Clean sections ✔️
+- Strong identity ✔️
+- Humor but controlled ✔️
+- Shows real skills (ERP + .NET) ✔️
+- Easier to read ✔️
+
+---
+
+## 🔥 Next Level Features
+
+If you want to level up further, I can add:
+
+- 🔥 Featured Projects section
+- 🧠 System Architecture diagrams
+- 📊 Real GitHub stats cards
+- 🚀 "Hire me" section
+
+---
+
+## THE ORIGIN STORY (Legacy)
+
+```bash
+> came for the chaos. stayed for the systems.
 ```
 
 ---
 
-## VISITOR (Because why not)
+## 💀 Old Stats (For Laughs)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FullstackRakibul&label=People+who+regret+visiting&color=red&style=for-the-badge" />
-</p>
+| Power Level        | Comedy                                             |
+| ------------------ | -------------------------------------------------- |
+| Bugs Created       | ∞ — "It's an **undocumented feature**™️"           |
+| Cups of Coffee     | 💀 — "My blood type is now espresso"              |
 
-
-<br />
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=900&size=20&duration=2000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+dumpster+fire;Please+send+coffee;Or+therapy;Or+both" alt="Outro" />
-</p>
+---
 
 <!-- I have no idea what I'm doing -->
 <!-- Please hire me I have bills -->
