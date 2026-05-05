@@ -29,6 +29,19 @@ I build scalable systems, design robust APIs, and fight daily battles with SQL S
 ```
 
 ---
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FullstackRakibul&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+
+---
+
+
+---
 
 ## ⚙️ System Profile (neofetch edition)
 
@@ -171,13 +184,6 @@ ULTIMATE MOVE:
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FullstackRakibul&theme=github-dark&hide_border=true" />
-</p>
-
----
 
 ## 📜 Philosophy
 
