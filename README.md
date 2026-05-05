@@ -13,7 +13,7 @@
 
 ---
 
-## 🧠 About Me
+## 🧠
 
 Full-Stack Software Developer working on enterprise ERP systems at Ha-Meem Group.
 
@@ -29,7 +29,7 @@ I build scalable systems, design robust APIs, and fight daily battles with SQL S
 ```
 
 ---
-## 📈 GitHub Activity
+## 📈 Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FullstackRakibul&theme=github-dark&hide_border=true" />
