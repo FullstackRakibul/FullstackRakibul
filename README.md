@@ -29,7 +29,6 @@ I build scalable systems, design robust APIs, and fight daily battles with SQL S
 ```
 
 ---
-## 📈 Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FullstackRakibul&theme=github-dark&hide_border=true" />
@@ -38,12 +37,7 @@ I build scalable systems, design robust APIs, and fight daily battles with SQL S
 ---
 
 
----
-
-
----
-
-## ⚙️ System Profile (neofetch edition)
+## ⚙️ System (neofetch edition)
 
 ```bash
 rakibul@neofetch:~$ neofetch --level=high
@@ -171,7 +165,7 @@ ULTIMATE MOVE:
 
 ---
 
-## 💀 Developer Reality
+## 💀 Reality
 
 **PASSIVE BUFFS:**
 - ☕ Caffeine:        +50 Focus, -50 HP
