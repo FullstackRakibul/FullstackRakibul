@@ -4,7 +4,7 @@
 >the quiet architect of systems and spirit, a soul who sees code and cosmos as kin.
 ```
 ```
-> After coding all these years, I finally realized that I am better at making coffee. ☕💻
+After coding all these years, I finally realized that I am better at making coffee.
 ```
 
 <p align="center">
