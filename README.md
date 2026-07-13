@@ -63,7 +63,7 @@ rakibul@neofetch:~$ neofetch --level=high
 --------------------------------------------------------------
 
   📚  Languages (Programming):
-                 Python -> clean… until it isn't
+                 Python -> clean… until it isnt
                  SQL -> truth serum for bad design
                  C# -> discipline with a breaking point
                  JavaScript -> chaos with syntax
