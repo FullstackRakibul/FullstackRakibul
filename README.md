@@ -46,7 +46,7 @@ rakibul@neofetch:~$ neofetch --level=high
   👤 Name:              Rakibul H. Rabbi
   🎭 Alias:             "The Bug Whisperer"
   ⚔️ Role:              Full Stack Engineer
-  🏢 Company:           Ha-Meem Group (they still don't know I use StackOverflow)
+  🏢 Company:           Ha-Meem Group (they still don`t know I use StackOverflow)
 
   🖥️ OS:                Windows 10 / Ubuntu 24.10 (dual boot, double the chaos)
   ⚔️ Role:              Full Stack Engineer (fancy term for "I do everything")
