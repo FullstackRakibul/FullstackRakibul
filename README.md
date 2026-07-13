@@ -1,10 +1,7 @@
 <h2 align="center">👨‍💻 Hi 👋, I'm Rakibul H. Rabbi — welcome to my code sanctuary</h2>
 
 ```bash
->the quiet architect of systems and spirit, a soul who sees code and cosmos as kin.
-```
-```
-After coding all these years, I finally realized that I am better at making coffee.
+the quiet architect of systems and spirit, a soul who sees code and cosmos as kin.
 ```
 
 <p align="center">
@@ -370,6 +367,10 @@ ULTIMATE MOVE:
 | Cups of Coffee     | 💀 — "My blood type is now espresso"              |
 
 ---
+
+```
+After coding all these years, I finally realized that I am better at making coffee.
+```
 
 <!-- I have no idea what I'm doing -->
 <!-- Please hire me I have bills -->
