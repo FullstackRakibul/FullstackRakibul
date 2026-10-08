@@ -1,0 +1,59 @@
+# Save as: .github/workflows/profile-animations.yml
+#
+# Generates the animated contribution snake and the 3D contribution skyline,
+# then publishes them to an "output" branch that README.md reads from.
+# Nothing is committed to your main branch.
+
+name: Profile animations
+
+on:
+  schedule:
+    - cron: "17 20 * * *" # daily at 02:17 Dhaka time (cron is in UTC)
+  workflow_dispatch: # lets you run it by hand from the Actions tab
+  push:
+    paths:
+      - ".github/workflows/profile-animations.yml"
+      - "conf/github-profile-3d-contrib.json"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-animations
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: 3D contribution skyline
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: conf/github-profile-3d-contrib.json
+
+      - name: Contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-light.svg
+            dist/snake-dark.svg?palette=github-dark
+
+      - name: Publish to the output branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p "$RUNNER_TEMP/out"
+          cp profile-3d-contrib/*.svg dist/*.svg "$RUNNER_TEMP/out/"
+          cd "$RUNNER_TEMP/out"
+          git init -q -b output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -qm "Refresh profile animations"
+          git push -qf "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" output
